@@ -34,7 +34,8 @@ const SubjectFilter = () => {
             });
         }
         router.push(newUrl, { scroll: false });
-    }, [subject]);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [subject]); // keeps it running only on subject change
 
     return (
         <Select onValueChange={setSubject} value={subject}>

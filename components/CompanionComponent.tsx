@@ -36,6 +36,9 @@ const CompanionComponent= ({
 
     }, [isSpeaking, lottieRef]);
 
+
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     useEffect(() => {
          const onCallStart = () => setCallStatus(CallStatus.ACTIVE)
 
@@ -92,7 +95,7 @@ const CompanionComponent= ({
             clientMessages:["transcript"],
             serverMessages:[]
         }
-        //@ts-expect-error
+        // @ts-expect-error: companionId can be undefined during first render
         vapi.start(configureAssistant(voice, style), assistantOverrides)
 
     }
