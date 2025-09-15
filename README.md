@@ -1,6 +1,6 @@
 # SaaS LMS Application
 
-<img width="2160" height="2007" alt="Home" src="https://github.com/user-attachments/assets/7bff602a-c6ee-45f7-a182-506656e4f6ad" />
+<img width="2160"  alt="Home" src="https://github.com/user-attachments/assets/7bff602a-c6ee-45f7-a182-506656e4f6ad" height="700"  />
 
 
 
@@ -85,18 +85,19 @@ npm run dev
 ## 📸 Screenshots
 
 ### Discover
-<img width="2160" height="1755" alt="Discover" src="https://github.com/user-attachments/assets/33c04e7c-9aa1-4a63-a2a4-084b5086f233" />
-
+<img src="https://github.com/user-attachments/assets/33c04e7c-9aa1-4a63-a2a4-084b5086f233" width="900" height="500" />
 
 ### Auth
-<img width="2160" height="1238" alt="Auth" src="https://github.com/user-attachments/assets/4181e46e-ce16-4e53-92c4-ec619d13dec2" />
+<img src="https://github.com/user-attachments/assets/4181e46e-ce16-4e53-92c4-ec619d13dec2" width="900" height="500" />
 
 ### My Journey
-<img width="2160" height="1662" alt="My Journey" src="https://github.com/user-attachments/assets/48b984bd-3bce-4471-88b0-72eaf10701e3" />
+<img src="https://github.com/user-attachments/assets/48b984bd-3bce-4471-88b0-72eaf10701e3" width="900" height="500" />
+
 ### Lessons
-<img width="2160" height="1487" alt="Lesson" src="https://github.com/user-attachments/assets/fe1164c0-696a-49c8-a6ff-934889056060" />
+<img src="https://github.com/user-attachments/assets/fe1164c0-696a-49c8-a6ff-934889056060" width="900" height="500" />
+
 ### New Companion Builder
-<img width="2160" height="1662" alt="New Companion Builder" src="https://github.com/user-attachments/assets/e9deedf0-9bcf-45fb-8495-41fa2e4ecd86" />
+<img src="https://github.com/user-attachments/assets/e9deedf0-9bcf-45fb-8495-41fa2e4ecd86" width="900" height="500"/>
 
 
 
